@@ -28,3 +28,7 @@ This is a **React.js application** that fetches and displays data from the JSONP
    ```bash
    git clone https://github.com/iamashishdutta/react-api-project.git
    cd react-api-project
+
+
+ ## Live
+  `https://bright-medovik-31b28b.netlify.app/`
